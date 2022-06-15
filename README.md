@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./image.png)
+![](./public/content/design/printscreen.png)
 
 ### Links
 
