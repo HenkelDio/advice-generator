@@ -30,11 +30,12 @@ const Card = () => {
             <div className="card-wrapper">
                 
                 <div className="header-card">
-                    <h3>ADVICE #<span></span></h3>
+                    <h3>ADVICE #<span>117</span></h3>
                 </div>
                 <div className="content-card">
                     <p>
-
+                        It's easy to sit up and take notice, what's
+                        difficult is getting up and taking action
                     </p>
                 </div>
             </div>
