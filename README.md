@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](https://advice-generator-hs1nclhp0-henkeldio.vercel.app/)
+- Live Site URL: [Live Site](https://advice-generator-ek67lyhuf-henkeldio.vercel.app/)
 
 ## My process
 
